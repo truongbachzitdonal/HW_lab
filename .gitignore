@@ -1,0 +1,12 @@
+# Các file sao lưu tự động của KiCad
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*_autosave-*
+
+# Thư mục lịch sử lưu tạm (như thư mục .history của bạn)
+.history/
+
+# Các file cache và file tạm khác
+fp-info-cache
+*.lck
