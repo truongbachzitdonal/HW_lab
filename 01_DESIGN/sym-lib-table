@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "AUSB") (type "Altium") (uri "${KIPRJMOD}/AUSB.SchLib") (options "") (descr ""))
+)
